@@ -1,0 +1,16 @@
+{
+  "name": "test-copy-webpack-plugin-path-separator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/frigus02/test-copy-webpack-plugin-path-separator.git",
+  "author": "Jan Kühle <jkuehle90@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "copy-webpack-plugin": "4.4.1",
+    "webpack": "3.11.0"
+  },
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  }
+}
